@@ -1,4 +1,4 @@
-///////////////Menu Items (MVP)///////////////////
+///////////////Menu Items (MVP)////////////////////
 
 const latte = {name: "Cafe Latte", price: 4, category: "Drinks"};
 const burger = {name: "Burger", price: 18, category: "Lunch"};
@@ -10,7 +10,7 @@ function createMenuItem(name, cost, category){
     /* Code here */
 }
 
-/* Task 1b: use your function to create 3 more menu items. You may add any items to the menu that you'd like */
+/* Task 1b: use your f`unction to create 3 more menu items. You may add any items to the menu that you'd like */
 
 
 
